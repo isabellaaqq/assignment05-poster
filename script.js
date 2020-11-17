@@ -1,4 +1,4 @@
-var e = document.getElementById("E");
+var L = document.getElementById("L");
 		a.addEventListener("click", a_OnClick);
 
 		function a_OnClick() {
